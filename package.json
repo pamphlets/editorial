@@ -1,0 +1,41 @@
+{
+  "name": "editorial",
+  "version": "1.0.0",
+  "description": "Write together as peers",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "pamphlet": "^4.0.0",
+    "prosemirror-keymap": "^1.1.4",
+    "y-indexeddb": "^9.0.3",
+    "y-prosemirror": "^0.3.5",
+    "y-webrtc": "^10.1.5",
+    "yjs": "^13.2.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pamphlets/editorial.git"
+  },
+  "keywords": [
+    "pamphlet",
+    "collaborative",
+    "editing",
+    "p2p",
+    "peer",
+    "webrtc",
+    "prosemirror",
+    "yjs",
+    "crdt"
+  ],
+  "author": "Brecht Savelkoul <brecht.savelkoul@alumni.lse.ac.uk>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pamphlets/editorial/issues"
+  },
+  "homepage": "https://github.com/pamphlets/editorial#readme"
+}
