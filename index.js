@@ -5,7 +5,7 @@ var { ySyncPlugin, yCursorPlugin, yUndoPlugin, undo, redo } = require('y-prosemi
 var Pamphlet = require('pamphlet')
 var Y = require('yjs')
 
-class Draft {
+class Editorial {
   constructor (element, room, user) {
     this.room = room || this.rand()
     this.doc = new Y.Doc()
@@ -40,4 +40,4 @@ class Draft {
   }
 }
 
-module.exports = Draft
+module.exports = Editorial
