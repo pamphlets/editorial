@@ -32,7 +32,7 @@ The editor is built on [Pamphlet](https://github.com/pamphlets/pamphlet), which 
 
 ## Credit
 
-Most of the heavy lifting by [ProseMirror](https//prosemirror.net) for the editing and [Yjs](https://yjs.dev) for collaboration and communication.
+Most of the heavy lifting is done by [ProseMirror](https//prosemirror.net) for the editing and [Yjs](https://yjs.dev) for collaboration and communication.
 
 ## License
 
